@@ -15,3 +15,4 @@ Your task:
 2. **Clone your fork**
    ```bash
    git clone https://github.com/<your-username>/bioinformatics-hackathon-2025.git
+3. 
