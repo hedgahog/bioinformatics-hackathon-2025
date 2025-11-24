@@ -29,7 +29,9 @@ Include the following (at minimum):
 
 5. **Commit and push your changes**
 
-```bash git add . git commit -m "Added team_genespark submission" git push origin main ```
+```bash git add . 
+git commit -m "Added team_genespark submission"
+git push origin main ```
 
 6. **Create a Pull Request (PR)**
 Go to your fork on GitHub → click “Compare & pull request” → add a short note about your project → click “Create pull request.”
