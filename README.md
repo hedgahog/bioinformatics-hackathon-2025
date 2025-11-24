@@ -37,5 +37,13 @@ git push origin main
 6. **Create a Pull Request (PR)**
 Go to your fork on GitHub → click “Compare & pull request” → add a short note about your project → click “Create pull request.”
 
+7. **Recommended File Strcture**
+bioinformatics-hackathon-2025/
+├── team_genespark/
+│   ├── README.md
+│   ├── main.py
+│   └── insight_summary.txt
+
+
 **Submission Deadline**:
 All pull requests must be submitted by Nov 23, 11:59 PM (local time).
